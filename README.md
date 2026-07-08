@@ -18,8 +18,27 @@ RootX-Automations হলো একটি উচ্চ-ক্ষমতাসম�
 ### 🚀 Getting Started
 এই সিস্টেমটি রান করতে আপনার সিস্টেমে Python ইনস্টল থাকা প্রয়োজন। 
 
-```bash- **Supported Market:** Primarily optimized for EUR/USD real-time data.
-- **সাপোর্টেড মার্কেট:** মূলত EUR/USD মার্কেটের রিয়েল-টাইম ডাটার জন্য অপ্টিমাইজ করা।
+`` Clone the repository
+git clone [https://github.com/EMONXPLOIT/RootX-Automations.git](https://github.com/EMONXPLOIT/RootX-Automations.git)
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run the system
+python main.py
+
+
+
+# Clone the repository
+git clone [https://github.com/EMONXPLOIT/RootX-Automations.git](https://github.com/EMONXPLOIT/RootX-Automations.git)
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run the system
+python main.py
+
+
 
 # Clone the repository
 git clone [https://github.com/EMONXPLOIT/RootX-Automations.git](https://github.com/EMONXPLOIT/RootX-Automations.git)
